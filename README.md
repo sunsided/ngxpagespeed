@@ -1,5 +1,7 @@
 # nginx with HTTP/2 and ngx_pagespeed
 
+[![](https://images.microbadger.com/badges/version/sunside/ngxpagespeed.svg)](http://microbadger.com/images/sunside/ngxpagespeed "Get your own version badge on microbadger.com") [![](https://images.microbadger.com/badges/image/sunside/ngxpagespeed.svg)](http://microbadger.com/images/sunside/ngxpagespeed "Get your own image badge on microbadger.com")
+
 An Ubuntu Trusty based NGINX image inspired by [dgageot/ngxpagespeed](https://github.com/dgageot/ngxpagespeed). It includes HTTP/2 support (superseding SPDY), as well as [ngx_pagespeed](https://github.com/pagespeed/ngx_pagespeed).
 
 The following additional modules are enabled:
